@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Dhurjati&family=Silkscreen:wght@400;700&display=swap');
+
+html, body {
+    box-sizing: border-box;
+    text-align: center;
+    width: 350px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 110px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #00011e;
+}
+
+#title {
+    font-family: "Silkscreen", sans-serif;
+    font-size: 22px;
+    color: #ffffff !important;
+    margin-bottom: 10px;
+}
+
+#link-group {
+    position: absolute; 
+    max-width: 250px;
+    left: 130px;
+    width: 100px;
+    transition: 1s;
+    opacity: 0;
+}
+
+#radios-group {
+    margin-top: 70px;
+    width: 100%;
+    margin-bottom: 13px;
+}
+
+#additonal-inputs {
+    width: 250px;
+    margin: 0 auto;
+}
+
+.form-floating {
+    margin-bottom: 13px;
+}
+
+.form-floating textarea, select {
+    background: #00011e !important;
+    color: #fff !important;
+}
+
+.form-floating label{
+    color: #6e6e6e !important;
+}
+
+.form-floating label::after{
+    background: transparent;    
+    background: transparent !important;
+}
+
+
+#sheetUrl {
+    border-color: #ffc107;
+    border-width: 2px;
+}
+
+#automate-btn { 
+    position: absolute;
+    left: 125px;
+    transition: 1s;
+}
+
+.active {
+    left: 50px !important;
+    width: 250px !important;
+    opacity: 100 !important;
+}
+
+.inactive {
+    opacity: 0 !important;
+}
+
+

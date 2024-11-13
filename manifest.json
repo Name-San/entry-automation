@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Automated Form Submission",
+    "version": "1.0",
+    "description": "Automates form submission on specific page.",
+    "permissions":["scripting", "activeTab"],
+    "host_permissions": ["https://f488-180-232-149-244.ngrok-free.app/*"],
+
+    "action": {
+        "default_popup": "popup/popup.html",
+        "default_icon": {
+            "16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"
+        }
+    }
+}
