@@ -9,8 +9,22 @@ _Entry-automation is a browser extension that automates the adding of item in th
    
 <br/>
 
-| Appscript | Input Bar | Extension App |
-| --------- | ----- | ------------- |
-| Customize data in array of objects using google sheet. | Get the link from appscript and paste it in the input bar of the extension. | Click Run. Extention will automatically added this data in the input node of html and do all the submission. |
+### Appscript
+Customize data in array of objects using google sheet. <br/>
 
-  
+![Screenshot From 2025-06-09 21-21-10](https://github.com/user-attachments/assets/192a8318-b74f-4d69-8d4f-51e15d267d7f)
+
+<br/>
+
+### Input Bar 
+Get the link from appscript and paste it in the input bar of the extension.<br/>
+
+![Screenshot From 2025-06-09 21-28-58](https://github.com/user-attachments/assets/5594bf64-4f0b-437b-991f-c16e2cad7e2b)
+
+<br/>
+
+### Extension App 
+Click Run. Extention will automatically added this data in the input node of html and do all the submission.<br/>
+
+![Screenshot From 2025-06-09 21-21-25](https://github.com/user-attachments/assets/3cb1d8d5-aea6-4fbe-be93-8bd64cb02871)
+
